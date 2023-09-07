@@ -1,2 +1,3 @@
-2023/09/03-19:14:58.859 6b87 Creating DB /workspaces/studious-bassoon/tokens/session-name/Default/Local Storage/leveldb since it was missing.
-2023/09/03-19:14:58.907 6b87 Reusing MANIFEST /workspaces/studious-bassoon/tokens/session-name/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/04-20:29:50.288 10fc Reusing MANIFEST /workspaces/supert-botg/tokens/session-name/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/04-20:29:50.307 10fc Recovering log #3
+2023/09/04-20:29:50.340 10fc Reusing old log /workspaces/supert-botg/tokens/session-name/Default/Local Storage/leveldb/000003.log 
